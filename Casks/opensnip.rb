@@ -1,6 +1,6 @@
 cask "opensnip" do
-  version "0.1.0"
-  sha256 "fa855e3ce998063fb7f692113782976ed763cfb3fe93e546ae18a338833cc23c"
+  version "0.1.1"
+  sha256 "f3cb536e53e615edb20b93a889e0b357f9be34471267657a765917e146feb650"
 
   url "https://github.com/Martinez-Andrew/opensnip/releases/download/v#{version}/OpenSnip.zip"
   name "OpenSnip"
